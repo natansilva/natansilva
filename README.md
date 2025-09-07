@@ -4,7 +4,7 @@ Hi there 👋
 
 - Currently working as a Data Platform Engineer at GrupoSBF.
 - Learning Rust.
-- Learning C++ to fuel my hobby game development aspirations with Unreal Engine.
+- Learning C# to fuel my hobby game development aspirations with Unreal Engine.
 
 ## Languages & Tools
 
